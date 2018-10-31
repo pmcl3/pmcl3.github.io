@@ -25,9 +25,9 @@ $(document).ready(function() {
     }, 1000, function() {
 
 
-        var texto = "Pablo Coronil is a graphic designer and illustrator";
+        var texto = "Pablo Coronil is a graphic designer and illustrator based in Spain";
         var texto2 = "";
-        var texto3 = "Based in Spain";
+        var texto3 = "";
         var texto4 = "";
 
 
