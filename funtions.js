@@ -25,10 +25,10 @@ $(document).ready(function() {
     }, 1000, function() {
 
 
-        var texto = "I´m Marcos Bustamante, ";
-        var texto2 = "Full-stack developer ";
-        var texto3 = "Based in Spain with a great focus on creating clean & user friendly code.";
-        var texto4 = "Let me show you more about me.";
+        var texto = "Pablo Coronil is a graphic designer and illustrator";
+        var texto2 = "";
+        var texto3 = "Based in Spain";
+        var texto4 = "";
 
 
         window.setTimeout(function() {
