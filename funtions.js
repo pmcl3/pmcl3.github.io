@@ -40,12 +40,11 @@ $(document).ready(function() {
 
     if (modoMovil) {
 
-        $("#opinion1").html("<p>Marcos es una persona que siempre está investigando y buscando nuevas posibilidades para un proyecto, una garantía de estar siempre a la última tecnología. Muy trabajador cuando algo le apasiona. Gran compañero.</p>");
-        $("#opinion2").html("<p>Gran profesional, buen compañero y apasionado de las tecnologías.</p>");
+        $("#opinion1").html("<p>Pablo es un profesional excelente con una gran dedicación y empeño por lo que hace.</p>");
 
     } else {
 
-        $("#view-source").attr("href", "mailto:marcosbustamantemateo@gmail.com");
+        $("#view-source").attr("href", "mailto:pamacola10@hotmail.com");
         $("#view-source").html("<i class='material-icons'>comment</i> TEXT NOW!");
     }
 
