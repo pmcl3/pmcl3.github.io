@@ -26,9 +26,6 @@ $(document).ready(function() {
 
 
         var texto = "Pablo Coronil is a graphic designer and illustrator based in Spain";
-        var texto2 = "";
-        var texto3 = "";
-        var texto4 = "";
 
 
         window.setTimeout(function() {
@@ -36,20 +33,6 @@ $(document).ready(function() {
             showText("#texto", texto, 0, 50);
         }, 0);
 
-        window.setTimeout(function() {
-
-            showText("#texto2", texto2, 0, 50);
-        }, texto.length * 50);
-
-        window.setTimeout(function() {
-
-            showText("#texto3", texto3, 0, 50);
-        }, texto.length * 50 + texto2.length * 50);
-
-        window.setTimeout(function() {
-
-            showText("#texto4", texto4, 0, 50);
-        }, texto.length * 50 + texto2.length * 50 + texto3.length * 50);
     });
 
 
